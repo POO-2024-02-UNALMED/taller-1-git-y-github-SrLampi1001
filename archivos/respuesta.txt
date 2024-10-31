@@ -1,0 +1,2 @@
+La creación de la carpeta no se registró como un cambio por sí misma
+Solo se registró después de la creación de este archivo
