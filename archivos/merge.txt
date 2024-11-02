@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Creo este archivo porque el anterior no me dió el error que debería
+(Probablemente por cambiar de dispositivo y clonar el repositorio con el archivo ya creado y en mi local, no hubo ningún problema pues fue una actualización simple)
+=======
+
+>>>>>>> 55f774be5eb72a5eae076733eb616aea12a876aa
+¿Por que es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+- Porque los cambios realizados se pueden perder, crear incongruencias con la linea de tiempo del proyecto, causar conflictos por archivos con iguales nombres pero diferentes propósitos
+Se pueden crear cambios inesperados para el archivo final cuando este se ha "combinado" con el archivo de mismo nombre modificado desde una ubicación diferente
