@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Creo este archivo porque el anterior no me dió el error que debería
 (Probablemente por cambiar de dispositivo y clonar el repositorio con el archivo ya creado y en mi local, no hubo ningún problema pues fue una actualización simple)
+=======
+
+>>>>>>> 55f774be5eb72a5eae076733eb616aea12a876aa
